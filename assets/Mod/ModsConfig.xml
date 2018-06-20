@@ -1,0 +1,5 @@
+<mods>	
+	<mod name="PluginBlueTooth">
+		<world name="global" checked="true"/>
+	</mod>	
+</mods>
